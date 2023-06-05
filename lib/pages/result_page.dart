@@ -50,7 +50,7 @@ class ResultPage extends StatelessWidget {
                     Padding(
                       padding: const EdgeInsets.symmetric(horizontal: 10.0),
                       child: Text(
-                        result_text,//random
+                        result_text,
                         style: TextStyle(fontSize: 22,color: Colors.white),
                         textAlign: TextAlign.center,
                       ),
